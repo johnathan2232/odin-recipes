@@ -1,0 +1,32 @@
+*{
+    background-color: #ffb340;
+    font-family: "Arial";
+}
+.lil{
+    font-size: 15px;
+    text-align: center;
+    margin-top: -5px;
+}
+.ings{
+    text-decoration: underline;
+}
+.actual{
+    margin-top: -18px;
+    /*Fix the actual fonts later*/
+}
+.inst{
+    margin-bottom: -15px;
+    text-decoration: underline;
+}
+.ai{
+    line-height: 2;
+}
+.t{
+    margin-bottom: -18px;
+}
+.fu
+{
+    text-align: center;
+    font-family: "Liberation Mono";
+
+}
